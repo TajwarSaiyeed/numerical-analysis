@@ -55,3 +55,4 @@ if __name__ == "__main__":
 
 
 # https://ideone.com/sHn7lK
+# https://github.com/TajwarSaiyeed/numerical-analysis/blob/main/assignment-2/roots_of_non_linear_equations_using_Bisection_method.py

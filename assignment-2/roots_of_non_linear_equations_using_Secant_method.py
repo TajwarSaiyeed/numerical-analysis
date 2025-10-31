@@ -36,3 +36,4 @@ if __name__ == "__main__":
     main()
 
 # https://ideone.com/wOOk2u
+# https://github.com/TajwarSaiyeed/numerical-analysis/blob/main/assignment-2/roots_of_non_linear_equations_using_Secant_method.py

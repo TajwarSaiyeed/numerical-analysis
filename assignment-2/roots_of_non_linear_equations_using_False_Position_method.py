@@ -50,3 +50,4 @@ if __name__ == "__main__":
 
 
 # https://ideone.com/rgAEop
+# https://github.com/TajwarSaiyeed/numerical-analysis/blob/main/assignment-2/roots_of_non_linear_equations_using_False_Position_method.py

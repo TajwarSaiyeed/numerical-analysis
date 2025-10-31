@@ -75,3 +75,4 @@ if __name__ == "__main__":
 
 
 # https://ideone.com/otZXs2
+# https://github.com/TajwarSaiyeed/numerical-analysis/blob/main/assignment-2/roots_of_non_linear_equations_using_Newton-Raphson_method.py
